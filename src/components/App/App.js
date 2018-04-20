@@ -1,5 +1,7 @@
 import React from 'react'
 import logo from '../../assets/logo.svg'
+import '../../components/App/App.css';
+
 const AppComponent = () => {
   return(
     <div className="App">
